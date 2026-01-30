@@ -16,7 +16,4 @@ public class ListRandom extends Target {
         }
         return result;
     }
-
-
-    
 }
