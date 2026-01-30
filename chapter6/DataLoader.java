@@ -48,6 +48,7 @@ public class DataLoader {
                     continue;
                 }
                 list.add(Integer.parseInt(line));
+                
             }
         }
 
