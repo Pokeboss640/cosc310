@@ -2,9 +2,9 @@ package chapter6;
 
 import java.util.ArrayList;
 
-public class ArrayAppend extends Target {
+public class ListAppend extends Target {
 
-    public ArrayAppend(int arr[], ArrayList<Integer> list, String name) {
+    public ListAppend(int arr[], ArrayList<Integer> list, String name) {
         super(arr, list, name);
     }    
 
